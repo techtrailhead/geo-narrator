@@ -1,0 +1,8 @@
+{
+  "name": "Geo-Narrator: Your Personal Tour Guide",
+  "description": "Discover the story behind any place you visit. Get instant history and facts about your current location, and listen to an AI-generated audio guide. You can also have a real-time conversation with the AI to ask questions.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
